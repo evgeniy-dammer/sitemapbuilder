@@ -1,0 +1,4 @@
+github.com/evgeniy-dammer/htmllinkparser v0.0.0-20220419105943-063d397de7eb h1:rD4tF6kt0JeXI4ih1ETlQan4WOsrzYWW0bPPbBKTYBo=
+github.com/evgeniy-dammer/htmllinkparser v0.0.0-20220419105943-063d397de7eb/go.mod h1:EabN0iiQIOprCqymS5hooHiRnhR/exyAU/RFL81Rtog=
+golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2 h1:6mzvA99KwZxbOrxww4EvWVQUnN1+xEu9tafK5ZxkYeA=
+golang.org/x/net v0.0.0-20220418201149-a630d4f3e7a2/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
